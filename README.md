@@ -14,7 +14,7 @@ Styled with TailwindCSS: Ensures a clean and responsive UI.
 
 Routing & Error Handling: Proper navigation with an error-handling NotFound page.
 
-Installation
+# Installation
 
 Follow these steps to set up and run the project locally:
 
@@ -39,7 +39,7 @@ Environment Variables (if required in the future) should be stored in a .env fil
 
 Update constants.ts for application-wide settings.
 
-Contact
+# Contact
 
 If you have any questions or need further assistance, feel free to reach out:
 📧 Email: kiranrajbadakambi@gmail.com
