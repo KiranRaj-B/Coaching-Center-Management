@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react';
-import { useLocalStorage } from '../../hooks/uselocalStorage';
+import { useState } from 'react';
+import { useLocalStorage } from '../../hooks/useLocalStorage';
 import { Student } from '../../types';
 import { LOCAL_STORAGE_KEYS } from '../../config/constants';
 import { PlusCircle, UserCircle, BookOpen, TrendingUp } from 'lucide-react';
